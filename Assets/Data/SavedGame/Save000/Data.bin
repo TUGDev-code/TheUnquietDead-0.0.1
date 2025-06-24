@@ -1,0 +1,59 @@
+{
+  "id": "468486432ba643d880e2e308bcf2701f",
+  "playerData": {
+    "position": {
+      "x": -14.9074173,
+      "y": -12.6002884,
+      "z": 59.2854652
+    },
+    "rotation": {
+      "x": 150.700012,
+      "y": -8.600001
+    },
+    "localData": {
+      "health": 100,
+      "selectedItem": -1,
+      "playerItems": {
+        "playerItem_0": {
+          "recordingTime": 0,
+          "batteryEnergy": 100.0,
+          "nightVision": false
+        },
+        "playerItem_1": {},
+        "playerItem_2": {},
+        "playerItem_3": {
+          "flashlightAttached": false
+        },
+        "playerItem_4": {
+          "batteryEnergy": 320.0
+        },
+        "playerItem_5": {
+          "currentFuel": 60.0
+        },
+        "playerItem_6": {},
+        "playerItem_7": {},
+        "playerItem_8": {
+          "baseTemp": 23.0
+        },
+        "playerItem_9": {}
+      }
+    },
+    "globalData": {
+      "inventory": {
+        "expanded": 0,
+        "items": {},
+        "shortcuts": {
+          "shortcut_0": "{}",
+          "shortcut_1": "{}",
+          "shortcut_2": "{}",
+          "shortcut_3": "{}"
+        }
+      },
+      "objectives": {}
+    }
+  },
+  "worldState": {
+    "worldSaveables": {},
+    "runtimeSaveables": {}
+  }
+}
